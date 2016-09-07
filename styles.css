@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: lightsteelblue;
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+.respond {
+  width: 80%;
+  height: 100%;
+}
+
+.smaller {
+  display: 80%;
+}
